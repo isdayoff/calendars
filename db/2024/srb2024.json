@@ -1,0 +1,12 @@
+{
+    "year": 2024,
+    "countrycode": "SRB",
+    "dayoff": ["0101", "0102", "0215", "0216", "0501", "0502", "0503", "0506", "1111"],
+    "dayoff6": [],
+    "predayoff": [],
+    "predayoff6": [],
+    "workday": [],
+    "covidday": [],
+    "holiday": [],
+    "author": "igor-kim <igor-kim@mail.ru>"
+}
