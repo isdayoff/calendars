@@ -13,7 +13,16 @@
     "1107",
     "1225"
   ],
-  "predayoff": [],
+  "predayoff": [
+    "0307",
+    "0430",
+    "0508",
+    "0518",
+    "0702",
+    "1106",
+    "1224",
+    "1231"
+  ],
   "dayoff6": [],
   "predayoff6": [],
   "workday": [
@@ -33,5 +42,5 @@
     "1107",
     "1225"
   ],
-  "author": "Andrey <mail@andrey.es>"
+  "author": "Igor KIM >igor-kim@mail.ru"
 }
