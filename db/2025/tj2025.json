@@ -1,0 +1,24 @@
+{
+  "year": 2025,
+  "countrycode": "tj",
+  "dayoff": [
+    "0101",
+    "0321",
+    "0324",
+    "0331",
+    "0509",
+    "0607",
+    "0627",
+    "0909",
+    "1106"
+  ],
+  "predayoff": [],
+  "dayoff6": [],
+  "predayoff6": [],
+  "workday": [
+  ],
+  "covidday": [],
+  "holiday": [
+  ],
+  "author": "Andrey <mail@andrey.es>"
+}
